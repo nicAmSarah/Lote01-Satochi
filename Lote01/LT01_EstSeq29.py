@@ -1,4 +1,4 @@
-tipoInvestimento = int(input("Digite o tipo de conta que você ira investir\n [1] - Poupnça\n [2] - Renda Fixa\n"))
+tipoInvestimento = int(input("Digite o tipo de conta que você ira investir\n [1] - Poupança\n [2] - Renda Fixa\n"))
 valorInvestimento = float(input("Qual o valor que você deseja investir?"))
 
 if tipoInvestimento == 1 or tipoInvestimento == 2:
